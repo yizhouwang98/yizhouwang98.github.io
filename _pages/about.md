@@ -28,7 +28,7 @@ Reach out to me via [email](wy024@ie.cuhk.edu.hk) for discussion or any opportun
 
 # 🔥 News
 - *2025.03*: &nbsp; [Hulk](https://arxiv.org/pdf/2312.01697) is accepted by TPAMI.
-- *2025.02*  &nbsp; [Instruct-ReID++](https://arxiv.org/pdf/2405.17790) is accepted by TPAMI.
+- *2025.02*: &nbsp; [Instruct-ReID++](https://arxiv.org/pdf/2405.17790) is accepted by TPAMI.
 - *2025.02*: &nbsp; We release a [survey paper](https://arxiv.org/pdf/2502.08556) on human-centric foundation models.
 - *2024.08*: &nbsp; I join MMLab, CUHK as a Ph.D. student.
 - *2024.07*: &nbsp; [Dettoolchain](https://arxiv.org/pdf/2403.12488) is accepted by ECCV 2024.
