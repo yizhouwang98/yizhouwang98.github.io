@@ -129,8 +129,15 @@ Shixiang Tang, Cheng Chen, Qingsong Xie, Meilin Chen, **Yizhou Wang**, Yuanzheng
 
 
 
+# 🎖 Honors and Awards
+- *2023.03* Excellent Postgraduate of Zhejiang University.
+- *2023.03* Youxian Sun Scholarship (Top 1 in the Master’s class of College of Electrical Engineering)
+- *2022.07* **Outstanding Reviewers** of ICML 2022.
 
-
+# 📖 Educations
+- *2023.09 - Now*, Ph.D., The Chinese University of Hong Kong, Hong Kong SAR, China.
+- *2020.09 - 2023.03*, Master, Zhejiang University, Hangzhou, China.
+- *2016.09 - 2020.06*, Undergraduate, Zhejiang University, Hangzhou, China.
 
 [//]: # (# 💬 Invited Talks)
 
@@ -138,6 +145,6 @@ Shixiang Tang, Cheng Chen, Qingsong Xie, Meilin Chen, **Yizhou Wang**, Yuanzheng
 
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
-[//]: # (# 💻 Internships)
-
-[//]: # (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)
+ # 💻 Internships
+ - *2023.01 - Now*, Shanghai AI Laboratory, China.
+ - *2021.03 - 2022.12*, SenseTime, China.
