@@ -145,6 +145,6 @@ Shixiang Tang, Cheng Chen, Qingsong Xie, Meilin Chen, **Yizhou Wang**, Yuanzheng
 
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
- # 💻 Internships
- - *2023.01 - Now*, Shanghai AI Laboratory, China.
- - *2021.03 - 2022.12*, SenseTime, China.
+# 💻 Internships
+- *2023.01 - Now*, Shanghai AI Laboratory, China.
+- *2021.03 - 2022.12*, SenseTime, China.
