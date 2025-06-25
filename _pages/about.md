@@ -21,12 +21,14 @@ I am a first-year Ph.D. student at MMLab, The Chinese University of Hong Kong, s
 Before that, I received Master's degree in 2023 and Bachelor's degree in 2020 from [Zhejiang University](https://www.zju.edu.cn/english/).
 
 
-My research interest includes deep learning and computer vision. I have published multiple research works on representation learning and human-centric perception. Now I focus on world models and humanoid agents.
+My research interest includes deep learning and computer vision. I have published multiple research works on representation learning, human-centric perception tasks. Now I focus on multimodal foundations models and world models.
 
 Reach out to me via [email](wy024@ie.cuhk.edu.hk) for discussion or any opportunities.
 
 
 # 🔥 News
+- *2025.05*: &nbsp; We will host the [1st Workshop on Interactive Human-centric Foundation Models](https://i-hfm-2025.github.io/I-HFM-2025/) at ICCV 2025, Honolulu, HI, USA.
+- *2025.03*: &nbsp; A survey about [Human-Centric Foundation Models](https://arxiv.org/pdf/2502.08556) is accepted by IJCAI 2025.
 - *2025.03*: &nbsp; [Hulk](https://arxiv.org/pdf/2312.01697) is accepted by TPAMI.
 - *2025.02*: &nbsp; [Instruct-ReID++](https://arxiv.org/pdf/2405.17790) is accepted by TPAMI.
 - *2025.02*: &nbsp; We release a [survey paper](https://arxiv.org/pdf/2502.08556) on human-centric foundation models.
@@ -41,6 +43,7 @@ Reach out to me via [email](wy024@ie.cuhk.edu.hk) for discussion or any opportun
 
 # 📝Selective Publications 
 (* equal contribution)
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/hulk.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
