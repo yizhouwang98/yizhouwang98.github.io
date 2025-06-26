@@ -27,6 +27,7 @@ Reach out to me via [email](wy024@ie.cuhk.edu.hk) for discussion or any opportun
 
 
 # 🔥 News
+- *2025.06*: &nbsp; [EgoAgent](https://arxiv.org/pdf/2502.05857) and [CMT](https://arxiv.org/pdf/2504.20830) are accepted by ICCV 2025.
 - *2025.05*: &nbsp; We will host the [1st Workshop on Interactive Human-centric Foundation Models](https://i-hfm-2025.github.io/I-HFM-2025/) at ICCV 2025, Honolulu, HI, USA.
 - *2025.03*: &nbsp; A survey about [Human-Centric Foundation Models](https://arxiv.org/pdf/2502.08556) is accepted by IJCAI 2025.
 - *2025.03*: &nbsp; [Hulk](https://arxiv.org/pdf/2312.01697) is accepted by TPAMI.
