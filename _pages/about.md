@@ -17,16 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student at MMLab, The Chinese University of Hong Kong, supervised by Prof. [Wanli Ouyang](https://wlouyang.github.io/). 
+I am a second-year Ph.D. student at MMLab, The Chinese University of Hong Kong, supervised by Prof. [Wanli Ouyang](https://wlouyang.github.io/). 
 Before that, I received Master's degree in 2023 and Bachelor's degree in 2020 from [Zhejiang University](https://www.zju.edu.cn/english/).
 
 
-My research interest includes deep learning and computer vision. I have published multiple research works on representation learning, human-centric perception tasks. Now I focus on multimodal foundations models and world models.
+My research interest includes computer vision and multimodal foundation models. I have published multiple research works on representation learning, human-centric perception tasks. My focus now spans world models for egocentric vision and scientific multimodal foundation models.
 
 Reach out to me via [email](wy024@ie.cuhk.edu.hk) for discussion or any opportunities.
 
 
 # 🔥 News
+- *2025.09*: &nbsp; As the student project lead, I directed the development of [SciReasoner](https://arxiv.org/pdf/2509.21320), a scientific reasoning foundation model that explicitly elicits scientific reasoning and supports five capability families with up to 103 tasks. The model, instruct tuning datasets and the evaluation code are open-sourced at [huggingface](https://huggingface.co/SciReason) and [github](https://github.com/open-sciencelab/SciReason).
 - *2025.06*: &nbsp; [EgoAgent](https://arxiv.org/pdf/2502.05857) and [CMT](https://arxiv.org/pdf/2504.20830) are accepted by ICCV 2025.
 - *2025.05*: &nbsp; We will host the [1st Workshop on Interactive Human-centric Foundation Models](https://i-hfm-2025.github.io/I-HFM-2025/) at ICCV 2025, Honolulu, HI, USA.
 - *2025.03*: &nbsp; A survey about [Human-Centric Foundation Models](https://arxiv.org/pdf/2502.08556) is accepted by IJCAI 2025.
@@ -45,6 +46,17 @@ Reach out to me via [email](wy024@ie.cuhk.edu.hk) for discussion or any opportun
 # 📝Selective Publications 
 (* equal contribution)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/scireasoner.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines](https://arxiv.org/pdf/2509.21320)
+
+**Yizhou Wang**, Chen Tang, Han Deng, Jiabei Xiao, Jiaqi Liu1, Jianyu Wu, Jun Yao, Pengze Li, Encheng Su, Lintao Wang, Guohang Zhuang, Yuchen Ren, Ben Fei, Ming Hu, Xin Chen, Dongzhan Zhou, Junjun He, Xiangyu Yue, Zhenfei Yin, Jiamin Wu, Qihao Zheng, Yuhao Zhou, Huihui Xu, Chenglong Ma, Yan Lu, Wenlong Zhang, Chunfeng Song, Philip Torr, Shixiang Tang, Xinzhu Ma, Wanli Ouyang and Lei Bai
+
+[pdf](https://arxiv.org/pdf/2509.21320)/[code](https://github.com/open-sciencelab/SciReason)/[data&model](https://huggingface.co/SciReason)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/hulk.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
