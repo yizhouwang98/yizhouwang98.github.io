@@ -46,14 +46,14 @@ Reach out to me via [email](wy024@ie.cuhk.edu.hk) for discussion or any opportun
 # 📝Selective Publications 
 (* equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/scireasoner.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="min-width: 200px; width: 200px;"><div><div class="badge">Tech Report</div><img src='images/scireasoner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines](https://arxiv.org/pdf/2509.21320)
 
-**Yizhou Wang**, Chen Tang, Han Deng, Jiabei Xiao, Jiaqi Liu1, Jianyu Wu, Jun Yao, Pengze Li, Encheng Su, Lintao Wang, Guohang Zhuang, Yuchen Ren, Ben Fei, Ming Hu, Xin Chen, Dongzhan Zhou, Junjun He, Xiangyu Yue, Zhenfei Yin, Jiamin Wu, Qihao Zheng, Yuhao Zhou, Huihui Xu, Chenglong Ma, Yan Lu, Wenlong Zhang, Chunfeng Song, Philip Torr, Shixiang Tang, Xinzhu Ma, Wanli Ouyang and Lei Bai
+**Yizhou Wang**, Chen Tang, Han Deng, Jiabei Xiao, Jiaqi Liu, Jianyu Wu, Jun Yao, Pengze Li, Encheng Su, Lintao Wang, Guohang Zhuang, Yuchen Ren, Ben Fei, Ming Hu, Xin Chen, Dongzhan Zhou, Junjun He, Xiangyu Yue, Zhenfei Yin, Jiamin Wu, Qihao Zheng, Yuhao Zhou, Huihui Xu, Chenglong Ma, Yan Lu, Wenlong Zhang, Chunfeng Song, Philip Torr, Shixiang Tang, Xinzhu Ma, Wanli Ouyang, Lei Bai
 
-[pdf](https://arxiv.org/pdf/2509.21320)/[code](https://github.com/open-sciencelab/SciReason)/[data&model](https://huggingface.co/SciReason)
+[pdf](https://arxiv.org/pdf/2509.21320)/[code](https://github.com/open-sciencelab/SciReason)/[data and model](https://huggingface.co/SciReason)
 
 </div>
 </div>
