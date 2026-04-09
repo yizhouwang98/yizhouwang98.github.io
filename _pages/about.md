@@ -62,7 +62,7 @@ I am actively seeking **research internship and full-time opportunities** in mul
 
 [EgoAgent: A Joint Predictive Agent Model in Egocentric Worlds](https://arxiv.org/pdf/2502.05857)
 
-Lu Chen*, **Yizhou Wang***, Shixiang Tang, Qianhong Ma, Tong He, Wanli Ouyang, Xiaowei Zhou, Hujun Bao, Sida Peng
+Lu Chen\*, **Yizhou Wang**\*, Shixiang Tang, Qianhong Ma, Tong He, Wanli Ouyang, Xiaowei Zhou, Hujun Bao, Sida Peng
 
 [project](https://egoagent.github.io/)/[pdf](https://arxiv.org/pdf/2502.05857)/[code](https://github.com/zju3dv/EgoAgent)
 
@@ -86,9 +86,9 @@ Lu Chen*, **Yizhou Wang***, Shixiang Tang, Qianhong Ma, Tong He, Wanli Ouyang, X
 
 [Dettoolchain: A new prompting paradigm to unleash detection ability of mllm](https://arxiv.org/pdf/2403.12488)
 
-Yixuan Wu*, **Yizhou Wang***, Shixiang Tang, Wenhao Wu, Tong He, Wanli Ouyang, Philip Torr, Jian Wu 
+Yixuan Wu\*, **Yizhou Wang**\*, Shixiang Tang, Wenhao Wu, Tong He, Wanli Ouyang, Philip Torr, Jian Wu 
 
-[pdf](https://arxiv.org/pdf/2403.12488)/[code](https://github.com/yixuan730/DetToolChain)
+[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04682.pdf)/[code](https://github.com/yixuan730/DetToolChain)
 
 </div>
 </div>
@@ -99,7 +99,7 @@ Yixuan Wu*, **Yizhou Wang***, Shixiang Tang, Wenhao Wu, Tong He, Wanli Ouyang, P
 
 [Unihcp: A unified model for human-centric perceptions](https://openaccess.thecvf.com/content/CVPR2023/papers/Ci_UniHCP_A_Unified_Model_for_Human-Centric_Perceptions_CVPR_2023_paper.pdf)
 
-Yuanzheng Ci*, **Yizhou Wang***, Meilin Chen, Shixiang Tang, Lei Bai, Feng Zhu, Rui Zhao, Fengwei Yu, Donglian Qi, Wanli Ouyang
+Yuanzheng Ci\*, **Yizhou Wang**\*, Meilin Chen, Shixiang Tang, Lei Bai, Feng Zhu, Rui Zhao, Fengwei Yu, Donglian Qi, Wanli Ouyang
 
 [pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Ci_UniHCP_A_Unified_Model_for_Human-Centric_Perceptions_CVPR_2023_paper.pdf)/[code](https://github.com/OpenGVLab/UniHCP)
 
@@ -111,7 +111,7 @@ Yuanzheng Ci*, **Yizhou Wang***, Meilin Chen, Shixiang Tang, Lei Bai, Feng Zhu, 
 
 [Unsupervised object detection pretraining with joint object priors generation and detector learning](https://proceedings.neurips.cc/paper_files/paper/2022/file/50ca96a1a9ebe0b5e5688a504feb6107-Paper-Conference.pdf)
 
-**Yizhou Wang***, Meilin Chen*, Shixiang Tang, Feng Zhu, Haiyang Yang, Lei Bai, Rui Zhao, Yunfeng Yan, Donglian Qi, Wanli Ouyang
+**Yizhou Wang**\*, Meilin Chen\*, Shixiang Tang, Feng Zhu, Haiyang Yang, Lei Bai, Rui Zhao, Yunfeng Yan, Donglian Qi, Wanli Ouyang
 
 [pdf](https://proceedings.neurips.cc/paper_files/paper/2022/file/50ca96a1a9ebe0b5e5688a504feb6107-Paper-Conference.pdf)
 
@@ -123,7 +123,7 @@ Yuanzheng Ci*, **Yizhou Wang***, Meilin Chen, Shixiang Tang, Lei Bai, Feng Zhu, 
 
 [Revisiting the Transferability of Supervised Pretraining: an MLP Perspective](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Revisiting_the_Transferability_of_Supervised_Pretraining_An_MLP_Perspective_CVPR_2022_paper.pdf)
 
-**Yizhou Wang***, Shixiang Tang*, Feng Zhu, Lei Bai, Rui Zhao, Donglian Qi, Wanli Ouyang
+**Yizhou Wang**\*, Shixiang Tang\*, Feng Zhu, Lei Bai, Rui Zhao, Donglian Qi, Wanli Ouyang
 
 [pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Revisiting_the_Transferability_of_Supervised_Pretraining_An_MLP_Perspective_CVPR_2022_paper.pdf)
 
