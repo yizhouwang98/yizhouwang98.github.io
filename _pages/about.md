@@ -57,7 +57,7 @@ I am actively seeking **research internship and full-time opportunities** in mul
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><video src='images/EgoAgent_Pipeline_720p.mp4' autoplay muted loop width="100%"></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/egoagent.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EgoAgent: A Joint Predictive Agent Model in Egocentric Worlds](https://arxiv.org/pdf/2502.05857)
