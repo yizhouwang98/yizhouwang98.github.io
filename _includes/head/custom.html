@@ -1,13 +1,32 @@
-<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png?v=cuhk">
+<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png?v=cuhk">
+<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png?v=cuhk">
 <link rel="manifest" href="images/site.webmanifest">
 
-<meta name="msapplication-TileColor" content="#000000">
-<meta name="msapplication-TileImage" content="images/mstile-144x144.png?v=M44lzPylqQ">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="images/mstile-144x144.png?v=cuhk">
 <meta name="msapplication-config" content="images/browserconfig.xml?v=M44lzPylqQ">
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="assets/css/academicons.css"/>
+
+<style>
+  /* Collapsible "News" list — matches site accent color (#224b8d) */
+  details.news-more { margin: 0.2em 0 0.6em; }
+  details.news-more > summary {
+    cursor: pointer;
+    display: inline-block;
+    color: #224b8d;
+    font-weight: 700;
+    list-style: none;
+    padding: 0.15em 0;
+    transition: color 0.2s ease;
+  }
+  details.news-more > summary::-webkit-details-marker { display: none; }
+  details.news-more > summary::before { content: "\25B8\00a0"; font-size: 0.9em; }
+  details.news-more[open] > summary::before { content: "\25BE\00a0"; }
+  details.news-more > summary:hover { color: #16345e; }
+  details.news-more[open] > summary { margin-bottom: 0.3em; }
+</style>
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
