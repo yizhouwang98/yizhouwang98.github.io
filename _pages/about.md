@@ -58,7 +58,7 @@ I am actively seeking **research internship and full-time opportunities** in mul
 
 [Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning](https://arxiv.org/abs/2607.07708)
 
-Chen Tang, **Yizhou Wang**, Jianyu Wu, Lintao Wang, Shixiang Tang, Pengze Li, Encheng Su, Jun Yao, Jiabei Xiao, Yuqi Shi, Jielan Li, Hongxia Hao, Zhangyang Gao, Fang Wu, Ben Fei, Xiangyu Yue, Pan Tan, Bozitao Zhong, Jinouwen Zhang, Aoran Wang, Yan Lu, Jiaheng Liu, Xinzhu Ma, Liang Hong, Mingyue Zheng, Phil Torr, Bowen Zhou, Wanli Ouyang, Lei Bai
+Chen Tang\*, **Yizhou Wang**\*, Jianyu Wu\*, Lintao Wang\*, Shixiang Tang, Pengze Li, Encheng Su, Jun Yao, Jiabei Xiao, Yuqi Shi, Jielan Li, Hongxia Hao, Zhangyang Gao, Fang Wu, Ben Fei, Xiangyu Yue, Pan Tan, Bozitao Zhong, Jinouwen Zhang, Aoran Wang, Yan Lu, Jiaheng Liu, Xinzhu Ma, Liang Hong, Mingyue Zheng, Phil Torr, Bowen Zhou, Wanli Ouyang, Lei Bai
 
 A further step of SciReasoner. We propose **native structural reasoning**, making protein structures, crystal structures, and molecular topology first-class citizens of scientific LLM reasoning: coordinates, topologies, and periodic connectivities are discretized into a unified structure-aware vocabulary so that structural tokens become addressable evidence units. SciReasoner achieves state-of-the-art on 67 of 86 benchmarks (e.g., improving Gene Ontology Cellular Component F_max from 0.42 to 0.55 on low-homology proteins and single-step retrosynthesis accuracy from 0.63 to 0.72), and double-blind expert evaluation rates its reasoning traces preferred or comparable to a frontier LLM in 98% of cases.
 
